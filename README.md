@@ -30,5 +30,6 @@
 
 ### 💌 Contact
 <p align="center">
-  Feel free to connect with me 🤍
+  I'm always open to connecting, exchanging ideas, and exploring new opportunities.  
+  Feel free to reach out via LinkedIn 🤍
 </p>
