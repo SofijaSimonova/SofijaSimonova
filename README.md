@@ -11,25 +11,20 @@
 
 ---
 
-### ✨ About Me
-- 🎯 Backend-focused developer  
-- 🎮 Strong interest in game development  
-- ⚙️ Passionate about scalable applications  
-- 🌱 Always learning and building  
+### 🌷 About Me
+- Backend-focused developer  
+- Strong interest in game development  
+- Focused on building scalable applications  
 
 ---
 
-### 💻 Tech Stack
+
+### 🌸 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,python" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,python"/>
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SofijaSimonova&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
